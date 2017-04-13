@@ -1,9 +1,10 @@
 # Java 8 Final Test
 
 ## Java 8 Final Test at Mitrais Training
-Simple app for reading file and print the N-Letter word, N-Letter word and contain substring. <br/>
-Count how many lines in a file and create a file with given lines and generate random words with given length per word. <br/>
-The result of random words can be seen in `random-words-generated.txt`
+
+<p text-align="justify">Simple app for reading file and print the N-Letter word, N-Letter word that contain substring.
+Count how many lines in a file and create a file with given lines and generate random words with given length per word.
+The result of random words can be seen in `random-words-generated.txt`</p>
  
 ## Detail
 * Read and Write file
