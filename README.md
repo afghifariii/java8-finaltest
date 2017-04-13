@@ -15,4 +15,6 @@ The result of random words can be seen in "random-words-generated.txt"</p>
 * There are Wrong Scenario Test Case and Correct Scenario Test Case
 
 ## How to
+* Use java 1.8 compiler
+* Add JUnit 4
 * `mvn clean install`
